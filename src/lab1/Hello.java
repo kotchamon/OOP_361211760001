@@ -4,7 +4,7 @@ public class Hello {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello World,I a Kotchamon Ketin");
+        System.out.println("Hello World,I am Kotchamon Ketin");
         System.out.println("361211760001");
         System.out.println("MIT");
         System.out.println("Faculty of Management Technology");
