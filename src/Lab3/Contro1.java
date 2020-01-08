@@ -27,4 +27,4 @@ public class Contro1 {
 
     }//main
 }//class
-}
+
